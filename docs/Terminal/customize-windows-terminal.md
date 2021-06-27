@@ -37,7 +37,9 @@ Undoubtedly, usage of terminal has increased in the modern software development.
                 "backgroundImageStretchMode": "uniformToFill"            
             }            
         .....
-6. To customize the prompt use ["oh my posh"](https://ohmyposh.dev/). 
+
+6. To customize the prompt, I used ["oh my posh"](https://ohmyposh.dev/). 
+
 7. To render fonts appropriately, download and install [Cascadia code font](https://github.com/microsoft/cascadia-code/releases). Most importantly we need to install “CascadiaCodePL” font. Post installation, set "fontface" property in default profile. 
 
 
