@@ -1,7 +1,9 @@
 site_name: Nagaraja S
 site_url: http://nagarajas.github.io/
 theme:
-  name: lux
+  name: material
+  palette:
+    primary: white
   font:
     text: Bona Nova
 
